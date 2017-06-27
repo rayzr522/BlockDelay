@@ -3,8 +3,7 @@ name: BlockDelay
 version: 1.0.0
 description: A toggleable delay for placing blocks.
 author: Rayzr
-#commands:
-#  blockdelay:
-#    description: The main command for BlockDelay
-#    aliases: [alias1,alias2]
-#    usage: "\u00A7cRayzr fracked something up."
+commands:
+  blockdelay:
+    description: Toggles the delay for placing blocks
+    usage: "\u00A7cRayzr fracked something up."
