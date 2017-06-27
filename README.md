@@ -1,7 +1,10 @@
 # BlockDelay
 > A toggleable delay for placing blocks.
 
-*Note: This README is a pre-generated stub*
+## Commands
+### `/blockdelay`
+**Permission:** `BlockDelay.toggle`  
+**Description:** Toggles the block delay.
 
 ## Join Me
 [![Discord Badge](https://github.com/Rayzr522/ProjectResources/raw/master/RayzrDev/badge-small.png)](https://discord.io/rayzrdevofficial)
